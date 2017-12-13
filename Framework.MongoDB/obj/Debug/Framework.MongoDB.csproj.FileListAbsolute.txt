@@ -1,0 +1,10 @@
+D:\Test\Framework.MongoDB-master\Framework.MongoDB\bin\Debug\Framework.MongoDB.dll
+D:\Test\Framework.MongoDB-master\Framework.MongoDB\bin\Debug\Framework.MongoDB.pdb
+D:\Test\Framework.MongoDB-master\Framework.MongoDB\bin\Debug\Framework.dll
+D:\Test\Framework.MongoDB-master\Framework.MongoDB\bin\Debug\MongoDB.Bson.dll
+D:\Test\Framework.MongoDB-master\Framework.MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+D:\Test\Framework.MongoDB-master\Framework.MongoDB\bin\Debug\MongoDB.Driver.dll
+D:\Test\Framework.MongoDB-master\Framework.MongoDB\obj\Debug\Framework.MongoDB.csprojResolveAssemblyReference.cache
+D:\Test\Framework.MongoDB-master\Framework.MongoDB\obj\Debug\Framework.MongoDB.dll
+D:\Test\Framework.MongoDB-master\Framework.MongoDB\obj\Debug\Framework.MongoDB.pdb
+D:\Test\Framework.MongoDB-master\Framework.MongoDB\obj\Debug\Framework.MongoDB.csproj.CoreCompileInputs.cache

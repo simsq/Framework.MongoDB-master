@@ -1,0 +1,6 @@
+D:\Test\Framework.MongoDB-master\CURDMongoDb\bin\Debug\CURDMongoDb.exe.config
+D:\Test\Framework.MongoDB-master\CURDMongoDb\bin\Debug\CURDMongoDb.exe
+D:\Test\Framework.MongoDB-master\CURDMongoDb\bin\Debug\CURDMongoDb.pdb
+D:\Test\Framework.MongoDB-master\CURDMongoDb\obj\Debug\CURDMongoDb.csprojResolveAssemblyReference.cache
+D:\Test\Framework.MongoDB-master\CURDMongoDb\obj\Debug\CURDMongoDb.exe
+D:\Test\Framework.MongoDB-master\CURDMongoDb\obj\Debug\CURDMongoDb.pdb

@@ -1,0 +1,9 @@
+D:\Test\Framework.MongoDB-master\CURDMongo\bin\Debug\netcoreapp1.1\CURDMongo.deps.json
+D:\Test\Framework.MongoDB-master\CURDMongo\bin\Debug\netcoreapp1.1\CURDMongo.runtimeconfig.json
+D:\Test\Framework.MongoDB-master\CURDMongo\bin\Debug\netcoreapp1.1\CURDMongo.runtimeconfig.dev.json
+D:\Test\Framework.MongoDB-master\CURDMongo\obj\Debug\netcoreapp1.1\CURDMongo.csprojResolveAssemblyReference.cache
+D:\Test\Framework.MongoDB-master\CURDMongo\obj\Debug\netcoreapp1.1\CURDMongo.AssemblyInfo.cs
+D:\Test\Framework.MongoDB-master\CURDMongo\bin\Debug\netcoreapp1.1\CURDMongo.dll
+D:\Test\Framework.MongoDB-master\CURDMongo\bin\Debug\netcoreapp1.1\CURDMongo.pdb
+D:\Test\Framework.MongoDB-master\CURDMongo\obj\Debug\netcoreapp1.1\CURDMongo.dll
+D:\Test\Framework.MongoDB-master\CURDMongo\obj\Debug\netcoreapp1.1\CURDMongo.pdb

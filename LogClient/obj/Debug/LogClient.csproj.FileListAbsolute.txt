@@ -1,0 +1,17 @@
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\LogClient.exe.config
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\LogClient.exe
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\LogClient.pdb
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\Configuration.dll
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\log4net.dll
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\MongoDB.Bson.dll
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\MongoDB.Driver.Core.dll
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\MongoDB.Driver.dll
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\log4net.xml
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\MongoDB.Bson.xml
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\MongoDB.Driver.xml
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\MongoDB.Driver.Core.xml
+D:\Test\Framework.MongoDB-master\LogClient\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Test\Framework.MongoDB-master\LogClient\obj\Debug\LogClient.exe
+D:\Test\Framework.MongoDB-master\LogClient\obj\Debug\LogClient.pdb
